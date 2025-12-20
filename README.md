@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roony</h1>
-<h3 align="center">I am a programmer from Algeria</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xroony&label=Profile%20views&color=0e75b6&style=flat" alt="0xroony" /> </p>
 
-- 💬 Ask me about **c#, python, javascript, rust**
+- 💬 Ask me about **C#, Python, Javascript, Rust, C++/C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/0xroony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xroony" height="30" width="40" /></a>
+<a href="https://instagram.com/ly.qx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xroony" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
