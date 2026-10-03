@@ -4,7 +4,7 @@
 
 **Full-stack developer · Web & game dev enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Building+a+games+hosting+platform;Yeee." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Web+%26+Game+Dev+Enthusiast;Yeee." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xRoony&color=blueviolet&style=flat-square)
 [![Email](https://img.shields.io/badge/Email-roony.me@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roony.me@gmail.com)
@@ -15,7 +15,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **a games hosting platform**
 - 🌐 Into web development and (kinda) game development
 - 🐧 Linux, Docker and self-hosting are my daily playground
 - 💬 Ask me about anything web, backend, or Unity
