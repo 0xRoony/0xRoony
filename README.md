@@ -2,9 +2,9 @@
 
 # Hey, I'm Roony 👋
 
-**Full-stack developer · Web & game dev enthusiast**
+**Full-stack developer · Web developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Web+%26+Game+Dev+Enthusiast;Yeee." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Web+Developer;Yeee." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xRoony&color=blueviolet&style=flat-square)
 [![Email](https://img.shields.io/badge/Email-roony.me@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roony.me@gmail.com)
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-- 🌐 Into web development and (kinda) game development
+- 🌐 Into web development
 - 🐧 Linux, Docker and self-hosting are my daily playground
-- 💬 Ask me about anything web, backend, or Unity
+- 💬 Ask me about anything web or backend
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +40,9 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Platforms**
 
@@ -48,8 +50,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## 📊 GitHub Stats
